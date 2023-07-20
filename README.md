@@ -7,5 +7,5 @@ For this challenge I wrote the HTML and CSS for a sample professional portfolio 
 
 Site is divided into several sections, including About Me, My Work, and Contact Info.
 I included functioning navigation links at the top of the page to take the user to any of the sections
-I included a link to a PDF of my resume (not current).
+I included a link to a microsoft page  of my current resume.
 I included a recent photo of myself.
