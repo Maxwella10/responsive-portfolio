@@ -16,4 +16,4 @@ The page was styled for multiple screen sizes, including tablets and mobile phon
 I also included some on hover effects for the various links and the projects on the page.
 
 
-Link to deployed application:
+Link to deployed application:  https://maxwella10.github.io/responsive-portfolio/
