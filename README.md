@@ -14,3 +14,6 @@ The projects presented in the My Work section include a couple of sample program
 The non-placholder applications will take the user to the deployed application on my GitHub when clicked on.
 The page was styled for multiple screen sizes, including tablets and mobile phones.
 I also included some on hover effects for the various links and the projects on the page.
+
+
+Link to deployed application:
